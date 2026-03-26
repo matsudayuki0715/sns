@@ -1,0 +1,15 @@
+# 一時ファイル
+tmp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# APIキー・環境変数
+.env
+sns_metrics/.env
+
+# OS
+.DS_Store
+Thumbs.db

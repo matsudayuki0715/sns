@@ -1,0 +1,38 @@
+{
+  "tiktok": {
+    "platform": "TikTok",
+    "handle": "@kiq_robotics",
+    "followers": 211,
+    "following": 0,
+    "total_likes": 887,
+    "recent_video_views": [
+      4,
+      10,
+      6,
+      6,
+      3,
+      6,
+      4,
+      4,
+      4,
+      10
+    ],
+    "avg_recent_views": 5
+  },
+  "instagram": {
+    "platform": "Instagram",
+    "handle": "@kiq_robotics",
+    "followers": 24
+  },
+  "facebook": {
+    "platform": "Facebook",
+    "handle": "kiqrobotics",
+    "page_likes": ""
+  },
+  "x": {
+    "platform": "X (Twitter)",
+    "handle": "@KiQ_Robotics",
+    "followers": 9,
+    "following": 4
+  }
+}
